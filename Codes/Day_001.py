@@ -18,7 +18,7 @@ likes(["Alex", "Jacob", "Mark", "Max"]) # must be "Alex, Jacob and 2 others like
 For 4 or more names, the number in and 2 others simply increases.'''
 
 def likes(names):
-    '''create a dictionary with each key value representing the no. of peoplw liking 
+    '''create a dictionary with each key value representing the no. of people liking 
     the post'''
     n = len(names)
     Dict = {
